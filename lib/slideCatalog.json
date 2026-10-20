@@ -1,0 +1,2231 @@
+[
+  {
+    "id": "brca",
+    "title": "Breast Invasive Ductal Carcinoma (40x)",
+    "summary": {
+      "total_nuclei_count": 80,
+      "tissue_area_um2": 65536.0,
+      "nuclear_to_cytoplasmic_ratio": 0.0214,
+      "mean_nuclear_area_um2": 17.54,
+      "std_nuclear_area_um2": 12.27,
+      "mean_circularity": 0.821,
+      "mean_solidity": 0.949,
+      "cellular_density_per_mm2": 1220.7
+    },
+    "nuclei_sample": [
+      {
+        "id": 1,
+        "centroid_x": 379.99,
+        "centroid_y": 29.97,
+        "area_px": 117.0,
+        "area_um2": 7.31,
+        "perimeter_px": 43.5,
+        "circularity": 0.779,
+        "aspect_ratio": 1.15,
+        "solidity": 0.936,
+        "pleomorphism_score": 0.194,
+        "bounding_box": [
+          373,
+          24,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 2,
+        "centroid_x": 827.05,
+        "centroid_y": 41.98,
+        "area_px": 488.0,
+        "area_um2": 30.5,
+        "perimeter_px": 83.6,
+        "circularity": 0.877,
+        "aspect_ratio": 1.09,
+        "solidity": 0.972,
+        "pleomorphism_score": 0.111,
+        "bounding_box": [
+          814,
+          30,
+          27,
+          25
+        ]
+      },
+      {
+        "id": 3,
+        "centroid_x": 273.05,
+        "centroid_y": 63.15,
+        "area_px": 56.5,
+        "area_um2": 3.53,
+        "perimeter_px": 27.9,
+        "circularity": 0.912,
+        "aspect_ratio": 1.13,
+        "solidity": 0.991,
+        "pleomorphism_score": 0.103,
+        "bounding_box": [
+          269,
+          59,
+          9,
+          9
+        ]
+      },
+      {
+        "id": 4,
+        "centroid_x": 58.87,
+        "centroid_y": 102.0,
+        "area_px": 212.0,
+        "area_um2": 13.25,
+        "perimeter_px": 59.1,
+        "circularity": 0.762,
+        "aspect_ratio": 1.37,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.289,
+        "bounding_box": [
+          50,
+          94,
+          19,
+          17
+        ]
+      },
+      {
+        "id": 5,
+        "centroid_x": 256.02,
+        "centroid_y": 123.01,
+        "area_px": 272.0,
+        "area_um2": 17.0,
+        "perimeter_px": 63.1,
+        "circularity": 0.858,
+        "aspect_ratio": 1.15,
+        "solidity": 0.961,
+        "pleomorphism_score": 0.145,
+        "bounding_box": [
+          246,
+          114,
+          21,
+          19
+        ]
+      },
+      {
+        "id": 6,
+        "centroid_x": 185.06,
+        "centroid_y": 127.95,
+        "area_px": 210.0,
+        "area_um2": 13.12,
+        "perimeter_px": 57.1,
+        "circularity": 0.809,
+        "aspect_ratio": 1.28,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.226,
+        "bounding_box": [
+          177,
+          119,
+          17,
+          19
+        ]
+      },
+      {
+        "id": 7,
+        "centroid_x": 214.09,
+        "centroid_y": 130.97,
+        "area_px": 76.0,
+        "area_um2": 4.75,
+        "perimeter_px": 33.0,
+        "circularity": 0.879,
+        "aspect_ratio": 1.0,
+        "solidity": 0.962,
+        "pleomorphism_score": 0.073,
+        "bounding_box": [
+          209,
+          126,
+          11,
+          11
+        ]
+      },
+      {
+        "id": 8,
+        "centroid_x": 857.44,
+        "centroid_y": 138.74,
+        "area_px": 232.0,
+        "area_um2": 14.5,
+        "perimeter_px": 58.3,
+        "circularity": 0.858,
+        "aspect_ratio": 1.03,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.097,
+        "bounding_box": [
+          849,
+          130,
+          18,
+          18
+        ]
+      },
+      {
+        "id": 9,
+        "centroid_x": 613.01,
+        "centroid_y": 148.96,
+        "area_px": 193.0,
+        "area_um2": 12.06,
+        "perimeter_px": 52.3,
+        "circularity": 0.887,
+        "aspect_ratio": 1.01,
+        "solidity": 0.967,
+        "pleomorphism_score": 0.071,
+        "bounding_box": [
+          605,
+          141,
+          17,
+          17
+        ]
+      },
+      {
+        "id": 10,
+        "centroid_x": 675.68,
+        "centroid_y": 167.41,
+        "area_px": 175.5,
+        "area_um2": 10.97,
+        "perimeter_px": 55.2,
+        "circularity": 0.723,
+        "aspect_ratio": 1.57,
+        "solidity": 0.889,
+        "pleomorphism_score": 0.394,
+        "bounding_box": [
+          668,
+          160,
+          17,
+          15
+        ]
+      },
+      {
+        "id": 11,
+        "centroid_x": 120.1,
+        "centroid_y": 188.02,
+        "area_px": 372.5,
+        "area_um2": 23.28,
+        "perimeter_px": 74.2,
+        "circularity": 0.851,
+        "aspect_ratio": 1.04,
+        "solidity": 0.963,
+        "pleomorphism_score": 0.105,
+        "bounding_box": [
+          109,
+          177,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 12,
+        "centroid_x": 813.86,
+        "centroid_y": 183.04,
+        "area_px": 166.0,
+        "area_um2": 10.38,
+        "perimeter_px": 51.5,
+        "circularity": 0.788,
+        "aspect_ratio": 1.27,
+        "solidity": 0.933,
+        "pleomorphism_score": 0.236,
+        "bounding_box": [
+          806,
+          176,
+          17,
+          15
+        ]
+      },
+      {
+        "id": 13,
+        "centroid_x": 184.83,
+        "centroid_y": 195.98,
+        "area_px": 124.0,
+        "area_um2": 7.75,
+        "perimeter_px": 43.5,
+        "circularity": 0.825,
+        "aspect_ratio": 1.35,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.243,
+        "bounding_box": [
+          179,
+          188,
+          12,
+          17
+        ]
+      },
+      {
+        "id": 14,
+        "centroid_x": 202.02,
+        "centroid_y": 194.98,
+        "area_px": 80.5,
+        "area_um2": 5.03,
+        "perimeter_px": 33.6,
+        "circularity": 0.898,
+        "aspect_ratio": 1.11,
+        "solidity": 0.976,
+        "pleomorphism_score": 0.105,
+        "bounding_box": [
+          197,
+          190,
+          11,
+          11
+        ]
+      },
+      {
+        "id": 15,
+        "centroid_x": 718.07,
+        "centroid_y": 223.75,
+        "area_px": 766.5,
+        "area_um2": 47.91,
+        "perimeter_px": 110.3,
+        "circularity": 0.791,
+        "aspect_ratio": 1.23,
+        "solidity": 0.942,
+        "pleomorphism_score": 0.216,
+        "bounding_box": [
+          703,
+          208,
+          31,
+          36
+        ]
+      },
+      {
+        "id": 16,
+        "centroid_x": 774.98,
+        "centroid_y": 217.96,
+        "area_px": 230.0,
+        "area_um2": 14.38,
+        "perimeter_px": 57.5,
+        "circularity": 0.876,
+        "aspect_ratio": 1.11,
+        "solidity": 0.968,
+        "pleomorphism_score": 0.117,
+        "bounding_box": [
+          766,
+          210,
+          19,
+          17
+        ]
+      },
+      {
+        "id": 17,
+        "centroid_x": 615.91,
+        "centroid_y": 217.96,
+        "area_px": 119.0,
+        "area_um2": 7.44,
+        "perimeter_px": 43.5,
+        "circularity": 0.792,
+        "aspect_ratio": 1.15,
+        "solidity": 0.937,
+        "pleomorphism_score": 0.186,
+        "bounding_box": [
+          609,
+          212,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 18,
+        "centroid_x": 86.95,
+        "centroid_y": 233.12,
+        "area_px": 354.5,
+        "area_um2": 22.16,
+        "perimeter_px": 73.0,
+        "circularity": 0.836,
+        "aspect_ratio": 1.05,
+        "solidity": 0.95,
+        "pleomorphism_score": 0.117,
+        "bounding_box": [
+          76,
+          222,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 19,
+        "centroid_x": 88.11,
+        "centroid_y": 256.05,
+        "area_px": 142.0,
+        "area_um2": 8.88,
+        "perimeter_px": 48.3,
+        "circularity": 0.765,
+        "aspect_ratio": 1.48,
+        "solidity": 0.944,
+        "pleomorphism_score": 0.332,
+        "bounding_box": [
+          79,
+          250,
+          18,
+          13
+        ]
+      },
+      {
+        "id": 20,
+        "centroid_x": 263.81,
+        "centroid_y": 271.86,
+        "area_px": 287.5,
+        "area_um2": 17.97,
+        "perimeter_px": 68.2,
+        "circularity": 0.777,
+        "aspect_ratio": 1.03,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.144,
+        "bounding_box": [
+          254,
+          262,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 21,
+        "centroid_x": 780.96,
+        "centroid_y": 273.02,
+        "area_px": 310.0,
+        "area_um2": 19.38,
+        "perimeter_px": 67.1,
+        "circularity": 0.865,
+        "aspect_ratio": 1.22,
+        "solidity": 0.97,
+        "pleomorphism_score": 0.168,
+        "bounding_box": [
+          771,
+          263,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 22,
+        "centroid_x": 358.99,
+        "centroid_y": 278.93,
+        "area_px": 352.5,
+        "area_um2": 22.03,
+        "perimeter_px": 70.5,
+        "circularity": 0.891,
+        "aspect_ratio": 1.09,
+        "solidity": 0.978,
+        "pleomorphism_score": 0.101,
+        "bounding_box": [
+          349,
+          268,
+          21,
+          23
+        ]
+      },
+      {
+        "id": 23,
+        "centroid_x": 913.0,
+        "centroid_y": 276.0,
+        "area_px": 171.0,
+        "area_um2": 10.69,
+        "perimeter_px": 49.5,
+        "circularity": 0.879,
+        "aspect_ratio": 1.11,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.116,
+        "bounding_box": [
+          906,
+          268,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 24,
+        "centroid_x": 85.93,
+        "centroid_y": 295.05,
+        "area_px": 164.0,
+        "area_um2": 10.25,
+        "perimeter_px": 50.6,
+        "circularity": 0.804,
+        "aspect_ratio": 1.48,
+        "solidity": 0.945,
+        "pleomorphism_score": 0.309,
+        "bounding_box": [
+          79,
+          287,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 25,
+        "centroid_x": 407.03,
+        "centroid_y": 298.02,
+        "area_px": 151.0,
+        "area_um2": 9.44,
+        "perimeter_px": 46.6,
+        "circularity": 0.873,
+        "aspect_ratio": 1.04,
+        "solidity": 0.962,
+        "pleomorphism_score": 0.091,
+        "bounding_box": [
+          400,
+          291,
+          15,
+          15
+        ]
+      },
+      {
+        "id": 26,
+        "centroid_x": 203.99,
+        "centroid_y": 317.98,
+        "area_px": 524.5,
+        "area_um2": 32.78,
+        "perimeter_px": 87.0,
+        "circularity": 0.871,
+        "aspect_ratio": 1.0,
+        "solidity": 0.972,
+        "pleomorphism_score": 0.079,
+        "bounding_box": [
+          191,
+          305,
+          27,
+          27
+        ]
+      },
+      {
+        "id": 27,
+        "centroid_x": 896.37,
+        "centroid_y": 357.35,
+        "area_px": 377.5,
+        "area_um2": 23.59,
+        "perimeter_px": 81.8,
+        "circularity": 0.708,
+        "aspect_ratio": 1.37,
+        "solidity": 0.889,
+        "pleomorphism_score": 0.323,
+        "bounding_box": [
+          885,
+          344,
+          26,
+          25
+        ]
+      },
+      {
+        "id": 28,
+        "centroid_x": 519.95,
+        "centroid_y": 382.13,
+        "area_px": 377.0,
+        "area_um2": 23.56,
+        "perimeter_px": 73.9,
+        "circularity": 0.867,
+        "aspect_ratio": 1.01,
+        "solidity": 0.965,
+        "pleomorphism_score": 0.083,
+        "bounding_box": [
+          509,
+          371,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 29,
+        "centroid_x": 350.03,
+        "centroid_y": 396.89,
+        "area_px": 100.0,
+        "area_um2": 6.25,
+        "perimeter_px": 39.0,
+        "circularity": 0.827,
+        "aspect_ratio": 1.21,
+        "solidity": 0.943,
+        "pleomorphism_score": 0.186,
+        "bounding_box": [
+          344,
+          391,
+          13,
+          12
+        ]
+      },
+      {
+        "id": 30,
+        "centroid_x": 217.06,
+        "centroid_y": 419.99,
+        "area_px": 544.0,
+        "area_um2": 34.0,
+        "perimeter_px": 90.9,
+        "circularity": 0.827,
+        "aspect_ratio": 1.09,
+        "solidity": 0.965,
+        "pleomorphism_score": 0.141,
+        "bounding_box": [
+          203,
+          407,
+          29,
+          27
+        ]
+      },
+      {
+        "id": 31,
+        "centroid_x": 307.04,
+        "centroid_y": 418.16,
+        "area_px": 169.0,
+        "area_um2": 10.56,
+        "perimeter_px": 50.6,
+        "circularity": 0.829,
+        "aspect_ratio": 1.47,
+        "solidity": 0.963,
+        "pleomorphism_score": 0.292,
+        "bounding_box": [
+          300,
+          410,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 32,
+        "centroid_x": 933.15,
+        "centroid_y": 425.01,
+        "area_px": 110.5,
+        "area_um2": 6.91,
+        "perimeter_px": 41.6,
+        "circularity": 0.804,
+        "aspect_ratio": 1.5,
+        "solidity": 0.953,
+        "pleomorphism_score": 0.319,
+        "bounding_box": [
+          926,
+          420,
+          15,
+          11
+        ]
+      },
+      {
+        "id": 33,
+        "centroid_x": 225.02,
+        "centroid_y": 454.3,
+        "area_px": 264.5,
+        "area_um2": 16.53,
+        "perimeter_px": 62.9,
+        "circularity": 0.841,
+        "aspect_ratio": 1.28,
+        "solidity": 0.96,
+        "pleomorphism_score": 0.206,
+        "bounding_box": [
+          216,
+          445,
+          19,
+          20
+        ]
+      },
+      {
+        "id": 34,
+        "centroid_x": 555.04,
+        "centroid_y": 471.9,
+        "area_px": 196.0,
+        "area_um2": 12.25,
+        "perimeter_px": 53.5,
+        "circularity": 0.862,
+        "aspect_ratio": 1.01,
+        "solidity": 0.958,
+        "pleomorphism_score": 0.086,
+        "bounding_box": [
+          547,
+          464,
+          17,
+          17
+        ]
+      },
+      {
+        "id": 35,
+        "centroid_x": 259.08,
+        "centroid_y": 476.01,
+        "area_px": 118.0,
+        "area_um2": 7.38,
+        "perimeter_px": 41.0,
+        "circularity": 0.883,
+        "aspect_ratio": 1.03,
+        "solidity": 0.967,
+        "pleomorphism_score": 0.084,
+        "bounding_box": [
+          253,
+          470,
+          13,
+          13
+        ]
+      },
+      {
+        "id": 36,
+        "centroid_x": 35.06,
+        "centroid_y": 519.87,
+        "area_px": 142.0,
+        "area_um2": 8.88,
+        "perimeter_px": 45.0,
+        "circularity": 0.882,
+        "aspect_ratio": 1.33,
+        "solidity": 0.983,
+        "pleomorphism_score": 0.203,
+        "bounding_box": [
+          29,
+          513,
+          13,
+          15
+        ]
+      },
+      {
+        "id": 37,
+        "centroid_x": 523.61,
+        "centroid_y": 522.2,
+        "area_px": 619.0,
+        "area_um2": 38.69,
+        "perimeter_px": 130.2,
+        "circularity": 0.459,
+        "aspect_ratio": 2.52,
+        "solidity": 0.838,
+        "pleomorphism_score": 0.932,
+        "bounding_box": [
+          497,
+          513,
+          49,
+          21
+        ]
+      },
+      {
+        "id": 38,
+        "centroid_x": 841.14,
+        "centroid_y": 536.5,
+        "area_px": 785.0,
+        "area_um2": 49.06,
+        "perimeter_px": 119.1,
+        "circularity": 0.696,
+        "aspect_ratio": 1.84,
+        "solidity": 0.927,
+        "pleomorphism_score": 0.518,
+        "bounding_box": [
+          822,
+          521,
+          41,
+          32
+        ]
+      },
+      {
+        "id": 39,
+        "centroid_x": 867.72,
+        "centroid_y": 548.08,
+        "area_px": 106.0,
+        "area_um2": 6.62,
+        "perimeter_px": 39.8,
+        "circularity": 0.841,
+        "aspect_ratio": 1.19,
+        "solidity": 0.951,
+        "pleomorphism_score": 0.173,
+        "bounding_box": [
+          861,
+          543,
+          14,
+          12
+        ]
+      },
+      {
+        "id": 40,
+        "centroid_x": 916.97,
+        "centroid_y": 548.01,
+        "area_px": 190.0,
+        "area_um2": 11.88,
+        "perimeter_px": 55.8,
+        "circularity": 0.767,
+        "aspect_ratio": 1.66,
+        "solidity": 0.957,
+        "pleomorphism_score": 0.405,
+        "bounding_box": [
+          907,
+          542,
+          21,
+          13
+        ]
+      }
+    ],
+    "images": {
+      "raw": "/slides/brca_raw.jpg",
+      "macenko": "/slides/brca_macenko.jpg",
+      "reinhard": "/slides/brca_reinhard.jpg",
+      "overlay": "/slides/brca_overlay.jpg",
+      "heatmap": "/slides/brca_heatmap.jpg"
+    }
+  },
+  {
+    "id": "colon",
+    "title": "Colorectal Adenocarcinoma Glandular (40x)",
+    "summary": {
+      "total_nuclei_count": 68,
+      "tissue_area_um2": 65536.0,
+      "nuclear_to_cytoplasmic_ratio": 0.0181,
+      "mean_nuclear_area_um2": 17.41,
+      "std_nuclear_area_um2": 12.55,
+      "mean_circularity": 0.823,
+      "mean_solidity": 0.951,
+      "cellular_density_per_mm2": 1037.6
+    },
+    "nuclei_sample": [
+      {
+        "id": 1,
+        "centroid_x": 379.9,
+        "centroid_y": 30.01,
+        "area_px": 126.0,
+        "area_um2": 7.88,
+        "perimeter_px": 42.6,
+        "circularity": 0.871,
+        "aspect_ratio": 1.12,
+        "solidity": 0.962,
+        "pleomorphism_score": 0.126,
+        "bounding_box": [
+          373,
+          24,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 2,
+        "centroid_x": 273.07,
+        "centroid_y": 63.02,
+        "area_px": 60.0,
+        "area_um2": 3.75,
+        "perimeter_px": 29.3,
+        "circularity": 0.877,
+        "aspect_ratio": 1.14,
+        "solidity": 0.976,
+        "pleomorphism_score": 0.128,
+        "bounding_box": [
+          269,
+          59,
+          10,
+          9
+        ]
+      },
+      {
+        "id": 3,
+        "centroid_x": 972.85,
+        "centroid_y": 90.81,
+        "area_px": 112.0,
+        "area_um2": 7.0,
+        "perimeter_px": 42.6,
+        "circularity": 0.775,
+        "aspect_ratio": 1.28,
+        "solidity": 0.911,
+        "pleomorphism_score": 0.249,
+        "bounding_box": [
+          966,
+          85,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 4,
+        "centroid_x": 256.02,
+        "centroid_y": 122.96,
+        "area_px": 276.0,
+        "area_um2": 17.25,
+        "perimeter_px": 63.1,
+        "circularity": 0.871,
+        "aspect_ratio": 1.13,
+        "solidity": 0.968,
+        "pleomorphism_score": 0.131,
+        "bounding_box": [
+          246,
+          114,
+          21,
+          19
+        ]
+      },
+      {
+        "id": 5,
+        "centroid_x": 185.07,
+        "centroid_y": 127.97,
+        "area_px": 224.0,
+        "area_um2": 14.0,
+        "perimeter_px": 58.3,
+        "circularity": 0.829,
+        "aspect_ratio": 1.27,
+        "solidity": 0.963,
+        "pleomorphism_score": 0.212,
+        "bounding_box": [
+          177,
+          119,
+          17,
+          19
+        ]
+      },
+      {
+        "id": 6,
+        "centroid_x": 214.09,
+        "centroid_y": 130.97,
+        "area_px": 76.0,
+        "area_um2": 4.75,
+        "perimeter_px": 33.0,
+        "circularity": 0.879,
+        "aspect_ratio": 1.0,
+        "solidity": 0.962,
+        "pleomorphism_score": 0.073,
+        "bounding_box": [
+          209,
+          126,
+          11,
+          11
+        ]
+      },
+      {
+        "id": 7,
+        "centroid_x": 857.59,
+        "centroid_y": 138.85,
+        "area_px": 241.0,
+        "area_um2": 15.06,
+        "perimeter_px": 60.8,
+        "circularity": 0.82,
+        "aspect_ratio": 1.01,
+        "solidity": 0.958,
+        "pleomorphism_score": 0.111,
+        "bounding_box": [
+          849,
+          130,
+          19,
+          19
+        ]
+      },
+      {
+        "id": 8,
+        "centroid_x": 676.52,
+        "centroid_y": 153.77,
+        "area_px": 675.0,
+        "area_um2": 42.19,
+        "perimeter_px": 112.9,
+        "circularity": 0.665,
+        "aspect_ratio": 1.7,
+        "solidity": 0.901,
+        "pleomorphism_score": 0.482,
+        "bounding_box": [
+          664,
+          136,
+          26,
+          39
+        ]
+      },
+      {
+        "id": 9,
+        "centroid_x": 120.04,
+        "centroid_y": 188.06,
+        "area_px": 377.5,
+        "area_um2": 23.59,
+        "perimeter_px": 73.4,
+        "circularity": 0.882,
+        "aspect_ratio": 1.03,
+        "solidity": 0.968,
+        "pleomorphism_score": 0.084,
+        "bounding_box": [
+          109,
+          177,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 10,
+        "centroid_x": 813.71,
+        "centroid_y": 183.29,
+        "area_px": 187.0,
+        "area_um2": 11.69,
+        "perimeter_px": 54.3,
+        "circularity": 0.797,
+        "aspect_ratio": 1.27,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.23,
+        "bounding_box": [
+          805,
+          176,
+          19,
+          16
+        ]
+      },
+      {
+        "id": 11,
+        "centroid_x": 184.81,
+        "centroid_y": 195.98,
+        "area_px": 130.5,
+        "area_um2": 8.16,
+        "perimeter_px": 44.9,
+        "circularity": 0.815,
+        "aspect_ratio": 1.41,
+        "solidity": 0.949,
+        "pleomorphism_score": 0.274,
+        "bounding_box": [
+          179,
+          188,
+          13,
+          17
+        ]
+      },
+      {
+        "id": 12,
+        "centroid_x": 803.39,
+        "centroid_y": 194.14,
+        "area_px": 87.5,
+        "area_um2": 5.47,
+        "perimeter_px": 38.4,
+        "circularity": 0.746,
+        "aspect_ratio": 1.54,
+        "solidity": 0.931,
+        "pleomorphism_score": 0.369,
+        "bounding_box": [
+          796,
+          190,
+          15,
+          10
+        ]
+      },
+      {
+        "id": 13,
+        "centroid_x": 718.06,
+        "centroid_y": 223.73,
+        "area_px": 773.5,
+        "area_um2": 48.34,
+        "perimeter_px": 111.2,
+        "circularity": 0.787,
+        "aspect_ratio": 1.22,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.216,
+        "bounding_box": [
+          703,
+          208,
+          31,
+          36
+        ]
+      },
+      {
+        "id": 14,
+        "centroid_x": 774.95,
+        "centroid_y": 217.99,
+        "area_px": 231.0,
+        "area_um2": 14.44,
+        "perimeter_px": 57.5,
+        "circularity": 0.879,
+        "aspect_ratio": 1.11,
+        "solidity": 0.971,
+        "pleomorphism_score": 0.116,
+        "bounding_box": [
+          766,
+          210,
+          19,
+          17
+        ]
+      },
+      {
+        "id": 15,
+        "centroid_x": 615.94,
+        "centroid_y": 217.84,
+        "area_px": 123.5,
+        "area_um2": 7.72,
+        "perimeter_px": 44.0,
+        "circularity": 0.8,
+        "aspect_ratio": 1.15,
+        "solidity": 0.936,
+        "pleomorphism_score": 0.18,
+        "bounding_box": [
+          609,
+          212,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 16,
+        "centroid_x": 86.87,
+        "centroid_y": 233.07,
+        "area_px": 362.5,
+        "area_um2": 22.66,
+        "perimeter_px": 72.2,
+        "circularity": 0.874,
+        "aspect_ratio": 1.05,
+        "solidity": 0.964,
+        "pleomorphism_score": 0.094,
+        "bounding_box": [
+          76,
+          222,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 17,
+        "centroid_x": 87.9,
+        "centroid_y": 256.07,
+        "area_px": 150.0,
+        "area_um2": 9.38,
+        "perimeter_px": 49.5,
+        "circularity": 0.771,
+        "aspect_ratio": 1.5,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.339,
+        "bounding_box": [
+          79,
+          250,
+          19,
+          13
+        ]
+      },
+      {
+        "id": 18,
+        "centroid_x": 263.9,
+        "centroid_y": 271.86,
+        "area_px": 304.0,
+        "area_um2": 19.0,
+        "perimeter_px": 68.8,
+        "circularity": 0.808,
+        "aspect_ratio": 1.05,
+        "solidity": 0.953,
+        "pleomorphism_score": 0.133,
+        "bounding_box": [
+          254,
+          262,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 19,
+        "centroid_x": 358.96,
+        "centroid_y": 278.94,
+        "area_px": 353.5,
+        "area_um2": 22.09,
+        "perimeter_px": 70.5,
+        "circularity": 0.893,
+        "aspect_ratio": 1.08,
+        "solidity": 0.978,
+        "pleomorphism_score": 0.095,
+        "bounding_box": [
+          349,
+          268,
+          21,
+          23
+        ]
+      },
+      {
+        "id": 20,
+        "centroid_x": 913.0,
+        "centroid_y": 276.0,
+        "area_px": 171.0,
+        "area_um2": 10.69,
+        "perimeter_px": 49.5,
+        "circularity": 0.879,
+        "aspect_ratio": 1.11,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.116,
+        "bounding_box": [
+          906,
+          268,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 21,
+        "centroid_x": 407.0,
+        "centroid_y": 298.05,
+        "area_px": 154.0,
+        "area_um2": 9.62,
+        "perimeter_px": 46.6,
+        "circularity": 0.89,
+        "aspect_ratio": 1.0,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.066,
+        "bounding_box": [
+          400,
+          291,
+          15,
+          15
+        ]
+      },
+      {
+        "id": 22,
+        "centroid_x": 203.99,
+        "centroid_y": 317.98,
+        "area_px": 524.5,
+        "area_um2": 32.78,
+        "perimeter_px": 87.0,
+        "circularity": 0.871,
+        "aspect_ratio": 1.0,
+        "solidity": 0.972,
+        "pleomorphism_score": 0.079,
+        "bounding_box": [
+          191,
+          305,
+          27,
+          27
+        ]
+      },
+      {
+        "id": 23,
+        "centroid_x": 899.03,
+        "centroid_y": 355.97,
+        "area_px": 529.0,
+        "area_um2": 33.06,
+        "perimeter_px": 87.6,
+        "circularity": 0.866,
+        "aspect_ratio": 1.17,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.146,
+        "bounding_box": [
+          885,
+          344,
+          29,
+          25
+        ]
+      },
+      {
+        "id": 24,
+        "centroid_x": 350.0,
+        "centroid_y": 396.72,
+        "area_px": 106.5,
+        "area_um2": 6.66,
+        "perimeter_px": 40.4,
+        "circularity": 0.821,
+        "aspect_ratio": 1.22,
+        "solidity": 0.942,
+        "pleomorphism_score": 0.196,
+        "bounding_box": [
+          344,
+          391,
+          14,
+          12
+        ]
+      },
+      {
+        "id": 25,
+        "centroid_x": 217.07,
+        "centroid_y": 420.04,
+        "area_px": 560.0,
+        "area_um2": 35.0,
+        "perimeter_px": 91.3,
+        "circularity": 0.845,
+        "aspect_ratio": 1.07,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.122,
+        "bounding_box": [
+          203,
+          407,
+          29,
+          27
+        ]
+      },
+      {
+        "id": 26,
+        "centroid_x": 307.01,
+        "centroid_y": 418.2,
+        "area_px": 170.0,
+        "area_um2": 10.62,
+        "perimeter_px": 50.6,
+        "circularity": 0.833,
+        "aspect_ratio": 1.51,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.302,
+        "bounding_box": [
+          300,
+          410,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 27,
+        "centroid_x": 933.15,
+        "centroid_y": 425.01,
+        "area_px": 110.5,
+        "area_um2": 6.91,
+        "perimeter_px": 41.6,
+        "circularity": 0.804,
+        "aspect_ratio": 1.5,
+        "solidity": 0.953,
+        "pleomorphism_score": 0.319,
+        "bounding_box": [
+          926,
+          420,
+          15,
+          11
+        ]
+      },
+      {
+        "id": 28,
+        "centroid_x": 225.5,
+        "centroid_y": 456.68,
+        "area_px": 321.5,
+        "area_um2": 20.09,
+        "perimeter_px": 83.0,
+        "circularity": 0.586,
+        "aspect_ratio": 1.66,
+        "solidity": 0.861,
+        "pleomorphism_score": 0.513,
+        "bounding_box": [
+          216,
+          445,
+          19,
+          28
+        ]
+      },
+      {
+        "id": 29,
+        "centroid_x": 259.08,
+        "centroid_y": 476.01,
+        "area_px": 118.0,
+        "area_um2": 7.38,
+        "perimeter_px": 41.0,
+        "circularity": 0.883,
+        "aspect_ratio": 1.03,
+        "solidity": 0.967,
+        "pleomorphism_score": 0.084,
+        "bounding_box": [
+          253,
+          470,
+          13,
+          13
+        ]
+      },
+      {
+        "id": 30,
+        "centroid_x": 35.01,
+        "centroid_y": 519.94,
+        "area_px": 144.0,
+        "area_um2": 9.0,
+        "perimeter_px": 45.0,
+        "circularity": 0.895,
+        "aspect_ratio": 1.32,
+        "solidity": 0.986,
+        "pleomorphism_score": 0.191,
+        "bounding_box": [
+          29,
+          513,
+          13,
+          15
+        ]
+      },
+      {
+        "id": 31,
+        "centroid_x": 532.96,
+        "centroid_y": 520.91,
+        "area_px": 332.5,
+        "area_um2": 20.78,
+        "perimeter_px": 73.0,
+        "circularity": 0.784,
+        "aspect_ratio": 1.42,
+        "solidity": 0.964,
+        "pleomorphism_score": 0.299,
+        "bounding_box": [
+          521,
+          512,
+          25,
+          19
+        ]
+      },
+      {
+        "id": 32,
+        "centroid_x": 848.96,
+        "centroid_y": 540.1,
+        "area_px": 423.0,
+        "area_um2": 26.44,
+        "perimeter_px": 80.4,
+        "circularity": 0.822,
+        "aspect_ratio": 1.0,
+        "solidity": 0.946,
+        "pleomorphism_score": 0.109,
+        "bounding_box": [
+          837,
+          528,
+          25,
+          25
+        ]
+      },
+      {
+        "id": 33,
+        "centroid_x": 916.92,
+        "centroid_y": 547.98,
+        "area_px": 193.0,
+        "area_um2": 12.06,
+        "perimeter_px": 55.8,
+        "circularity": 0.779,
+        "aspect_ratio": 1.7,
+        "solidity": 0.965,
+        "pleomorphism_score": 0.412,
+        "bounding_box": [
+          907,
+          542,
+          21,
+          13
+        ]
+      },
+      {
+        "id": 34,
+        "centroid_x": 189.98,
+        "centroid_y": 557.05,
+        "area_px": 441.5,
+        "area_um2": 27.59,
+        "perimeter_px": 78.5,
+        "circularity": 0.9,
+        "aspect_ratio": 1.19,
+        "solidity": 0.985,
+        "pleomorphism_score": 0.135,
+        "bounding_box": [
+          179,
+          545,
+          23,
+          25
+        ]
+      },
+      {
+        "id": 35,
+        "centroid_x": 251.24,
+        "centroid_y": 597.88,
+        "area_px": 1245.0,
+        "area_um2": 77.81,
+        "perimeter_px": 156.9,
+        "circularity": 0.636,
+        "aspect_ratio": 1.8,
+        "solidity": 0.882,
+        "pleomorphism_score": 0.538,
+        "bounding_box": [
+          232,
+          573,
+          38,
+          50
+        ]
+      },
+      {
+        "id": 36,
+        "centroid_x": 67.98,
+        "centroid_y": 588.91,
+        "area_px": 295.5,
+        "area_um2": 18.47,
+        "perimeter_px": 67.4,
+        "circularity": 0.819,
+        "aspect_ratio": 1.53,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.319,
+        "bounding_box": [
+          58,
+          578,
+          20,
+          23
+        ]
+      },
+      {
+        "id": 37,
+        "centroid_x": 757.98,
+        "centroid_y": 586.1,
+        "area_px": 113.5,
+        "area_um2": 7.09,
+        "perimeter_px": 40.4,
+        "circularity": 0.875,
+        "aspect_ratio": 1.41,
+        "solidity": 0.983,
+        "pleomorphism_score": 0.24,
+        "bounding_box": [
+          753,
+          579,
+          11,
+          15
+        ]
+      },
+      {
+        "id": 38,
+        "centroid_x": 638.99,
+        "centroid_y": 607.93,
+        "area_px": 379.0,
+        "area_um2": 23.69,
+        "perimeter_px": 73.9,
+        "circularity": 0.871,
+        "aspect_ratio": 1.2,
+        "solidity": 0.971,
+        "pleomorphism_score": 0.159,
+        "bounding_box": [
+          629,
+          596,
+          21,
+          25
+        ]
+      },
+      {
+        "id": 39,
+        "centroid_x": 381.13,
+        "centroid_y": 602.2,
+        "area_px": 81.5,
+        "area_um2": 5.09,
+        "perimeter_px": 35.6,
+        "circularity": 0.81,
+        "aspect_ratio": 1.63,
+        "solidity": 0.959,
+        "pleomorphism_score": 0.367,
+        "bounding_box": [
+          376,
+          597,
+          11,
+          12
+        ]
+      },
+      {
+        "id": 40,
+        "centroid_x": 58.1,
+        "centroid_y": 625.13,
+        "area_px": 518.5,
+        "area_um2": 32.41,
+        "perimeter_px": 86.7,
+        "circularity": 0.867,
+        "aspect_ratio": 1.14,
+        "solidity": 0.971,
+        "pleomorphism_score": 0.135,
+        "bounding_box": [
+          45,
+          611,
+          27,
+          28
+        ]
+      }
+    ],
+    "images": {
+      "raw": "/slides/colon_raw.jpg",
+      "macenko": "/slides/colon_macenko.jpg",
+      "reinhard": "/slides/colon_reinhard.jpg",
+      "overlay": "/slides/colon_overlay.jpg",
+      "heatmap": "/slides/colon_heatmap.jpg"
+    }
+  },
+  {
+    "id": "lymph",
+    "title": "Reactive Follicular Lymphoid Tissue (40x)",
+    "summary": {
+      "total_nuclei_count": 107,
+      "tissue_area_um2": 65536.0,
+      "nuclear_to_cytoplasmic_ratio": 0.0296,
+      "mean_nuclear_area_um2": 18.12,
+      "std_nuclear_area_um2": 12.49,
+      "mean_circularity": 0.819,
+      "mean_solidity": 0.949,
+      "cellular_density_per_mm2": 1632.7
+    },
+    "nuclei_sample": [
+      {
+        "id": 1,
+        "centroid_x": 379.99,
+        "centroid_y": 29.97,
+        "area_px": 117.0,
+        "area_um2": 7.31,
+        "perimeter_px": 43.5,
+        "circularity": 0.779,
+        "aspect_ratio": 1.15,
+        "solidity": 0.936,
+        "pleomorphism_score": 0.194,
+        "bounding_box": [
+          373,
+          24,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 2,
+        "centroid_x": 498.18,
+        "centroid_y": 30.0,
+        "area_px": 100.0,
+        "area_um2": 6.25,
+        "perimeter_px": 39.8,
+        "circularity": 0.793,
+        "aspect_ratio": 1.49,
+        "solidity": 0.939,
+        "pleomorphism_score": 0.321,
+        "bounding_box": [
+          492,
+          24,
+          13,
+          13
+        ]
+      },
+      {
+        "id": 3,
+        "centroid_x": 827.07,
+        "centroid_y": 41.99,
+        "area_px": 489.0,
+        "area_um2": 30.56,
+        "perimeter_px": 84.4,
+        "circularity": 0.862,
+        "aspect_ratio": 1.09,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.12,
+        "bounding_box": [
+          814,
+          30,
+          27,
+          25
+        ]
+      },
+      {
+        "id": 4,
+        "centroid_x": 273.1,
+        "centroid_y": 63.13,
+        "area_px": 58.0,
+        "area_um2": 3.62,
+        "perimeter_px": 29.3,
+        "circularity": 0.848,
+        "aspect_ratio": 1.13,
+        "solidity": 0.959,
+        "pleomorphism_score": 0.142,
+        "bounding_box": [
+          269,
+          59,
+          10,
+          9
+        ]
+      },
+      {
+        "id": 5,
+        "centroid_x": 122.94,
+        "centroid_y": 72.93,
+        "area_px": 526.5,
+        "area_um2": 32.91,
+        "perimeter_px": 91.2,
+        "circularity": 0.796,
+        "aspect_ratio": 1.1,
+        "solidity": 0.952,
+        "pleomorphism_score": 0.162,
+        "bounding_box": [
+          109,
+          60,
+          29,
+          27
+        ]
+      },
+      {
+        "id": 6,
+        "centroid_x": 58.94,
+        "centroid_y": 102.02,
+        "area_px": 215.0,
+        "area_um2": 13.44,
+        "perimeter_px": 59.1,
+        "circularity": 0.773,
+        "aspect_ratio": 1.37,
+        "solidity": 0.947,
+        "pleomorphism_score": 0.286,
+        "bounding_box": [
+          50,
+          94,
+          19,
+          17
+        ]
+      },
+      {
+        "id": 7,
+        "centroid_x": 109.02,
+        "centroid_y": 101.02,
+        "area_px": 115.5,
+        "area_um2": 7.22,
+        "perimeter_px": 40.4,
+        "circularity": 0.89,
+        "aspect_ratio": 1.34,
+        "solidity": 0.983,
+        "pleomorphism_score": 0.201,
+        "bounding_box": [
+          103,
+          95,
+          13,
+          13
+        ]
+      },
+      {
+        "id": 8,
+        "centroid_x": 255.98,
+        "centroid_y": 122.96,
+        "area_px": 277.0,
+        "area_um2": 17.31,
+        "perimeter_px": 63.1,
+        "circularity": 0.874,
+        "aspect_ratio": 1.14,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.132,
+        "bounding_box": [
+          246,
+          114,
+          21,
+          19
+        ]
+      },
+      {
+        "id": 9,
+        "centroid_x": 185.08,
+        "centroid_y": 127.95,
+        "area_px": 214.0,
+        "area_um2": 13.38,
+        "perimeter_px": 57.1,
+        "circularity": 0.824,
+        "aspect_ratio": 1.29,
+        "solidity": 0.951,
+        "pleomorphism_score": 0.22,
+        "bounding_box": [
+          177,
+          119,
+          17,
+          19
+        ]
+      },
+      {
+        "id": 10,
+        "centroid_x": 214.09,
+        "centroid_y": 130.97,
+        "area_px": 76.0,
+        "area_um2": 4.75,
+        "perimeter_px": 33.0,
+        "circularity": 0.879,
+        "aspect_ratio": 1.0,
+        "solidity": 0.962,
+        "pleomorphism_score": 0.073,
+        "bounding_box": [
+          209,
+          126,
+          11,
+          11
+        ]
+      },
+      {
+        "id": 11,
+        "centroid_x": 857.59,
+        "centroid_y": 138.85,
+        "area_px": 241.0,
+        "area_um2": 15.06,
+        "perimeter_px": 60.8,
+        "circularity": 0.82,
+        "aspect_ratio": 1.01,
+        "solidity": 0.958,
+        "pleomorphism_score": 0.111,
+        "bounding_box": [
+          849,
+          130,
+          19,
+          19
+        ]
+      },
+      {
+        "id": 12,
+        "centroid_x": 676.52,
+        "centroid_y": 153.89,
+        "area_px": 651.5,
+        "area_um2": 40.72,
+        "perimeter_px": 113.5,
+        "circularity": 0.636,
+        "aspect_ratio": 1.79,
+        "solidity": 0.883,
+        "pleomorphism_score": 0.535,
+        "bounding_box": [
+          664,
+          136,
+          26,
+          39
+        ]
+      },
+      {
+        "id": 13,
+        "centroid_x": 614.08,
+        "centroid_y": 149.1,
+        "area_px": 163.0,
+        "area_um2": 10.19,
+        "perimeter_px": 51.5,
+        "circularity": 0.774,
+        "aspect_ratio": 1.11,
+        "solidity": 0.908,
+        "pleomorphism_score": 0.179,
+        "bounding_box": [
+          607,
+          141,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 14,
+        "centroid_x": 775.02,
+        "centroid_y": 162.12,
+        "area_px": 503.5,
+        "area_um2": 31.47,
+        "perimeter_px": 86.5,
+        "circularity": 0.845,
+        "aspect_ratio": 1.26,
+        "solidity": 0.965,
+        "pleomorphism_score": 0.198,
+        "bounding_box": [
+          761,
+          151,
+          29,
+          23
+        ]
+      },
+      {
+        "id": 15,
+        "centroid_x": 120.07,
+        "centroid_y": 188.03,
+        "area_px": 373.5,
+        "area_um2": 23.34,
+        "perimeter_px": 74.2,
+        "circularity": 0.853,
+        "aspect_ratio": 1.04,
+        "solidity": 0.963,
+        "pleomorphism_score": 0.104,
+        "bounding_box": [
+          109,
+          177,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 16,
+        "centroid_x": 813.81,
+        "centroid_y": 183.09,
+        "area_px": 174.5,
+        "area_um2": 10.91,
+        "perimeter_px": 52.0,
+        "circularity": 0.81,
+        "aspect_ratio": 1.35,
+        "solidity": 0.938,
+        "pleomorphism_score": 0.254,
+        "bounding_box": [
+          806,
+          176,
+          18,
+          15
+        ]
+      },
+      {
+        "id": 17,
+        "centroid_x": 184.83,
+        "centroid_y": 195.98,
+        "area_px": 124.0,
+        "area_um2": 7.75,
+        "perimeter_px": 43.5,
+        "circularity": 0.825,
+        "aspect_ratio": 1.35,
+        "solidity": 0.969,
+        "pleomorphism_score": 0.243,
+        "bounding_box": [
+          179,
+          188,
+          12,
+          17
+        ]
+      },
+      {
+        "id": 18,
+        "centroid_x": 202.02,
+        "centroid_y": 194.93,
+        "area_px": 83.0,
+        "area_um2": 5.19,
+        "perimeter_px": 34.1,
+        "circularity": 0.895,
+        "aspect_ratio": 1.08,
+        "solidity": 0.976,
+        "pleomorphism_score": 0.094,
+        "bounding_box": [
+          197,
+          190,
+          11,
+          11
+        ]
+      },
+      {
+        "id": 19,
+        "centroid_x": 782.12,
+        "centroid_y": 209.5,
+        "area_px": 632.0,
+        "area_um2": 39.5,
+        "perimeter_px": 109.4,
+        "circularity": 0.664,
+        "aspect_ratio": 1.77,
+        "solidity": 0.912,
+        "pleomorphism_score": 0.511,
+        "bounding_box": [
+          766,
+          193,
+          33,
+          34
+        ]
+      },
+      {
+        "id": 20,
+        "centroid_x": 908.16,
+        "centroid_y": 207.91,
+        "area_px": 193.5,
+        "area_um2": 12.09,
+        "perimeter_px": 52.9,
+        "circularity": 0.87,
+        "aspect_ratio": 1.09,
+        "solidity": 0.968,
+        "pleomorphism_score": 0.114,
+        "bounding_box": [
+          901,
+          199,
+          16,
+          18
+        ]
+      },
+      {
+        "id": 21,
+        "centroid_x": 718.09,
+        "centroid_y": 223.74,
+        "area_px": 769.5,
+        "area_um2": 48.09,
+        "perimeter_px": 110.3,
+        "circularity": 0.794,
+        "aspect_ratio": 1.23,
+        "solidity": 0.942,
+        "pleomorphism_score": 0.215,
+        "bounding_box": [
+          703,
+          208,
+          31,
+          36
+        ]
+      },
+      {
+        "id": 22,
+        "centroid_x": 615.85,
+        "centroid_y": 218.03,
+        "area_px": 117.0,
+        "area_um2": 7.31,
+        "perimeter_px": 43.5,
+        "circularity": 0.779,
+        "aspect_ratio": 1.16,
+        "solidity": 0.925,
+        "pleomorphism_score": 0.198,
+        "bounding_box": [
+          609,
+          212,
+          15,
+          13
+        ]
+      },
+      {
+        "id": 23,
+        "centroid_x": 874.98,
+        "centroid_y": 219.95,
+        "area_px": 113.5,
+        "area_um2": 7.09,
+        "perimeter_px": 42.4,
+        "circularity": 0.794,
+        "aspect_ratio": 1.35,
+        "solidity": 0.934,
+        "pleomorphism_score": 0.264,
+        "bounding_box": [
+          868,
+          215,
+          15,
+          12
+        ]
+      },
+      {
+        "id": 24,
+        "centroid_x": 86.04,
+        "centroid_y": 233.47,
+        "area_px": 319.0,
+        "area_um2": 19.94,
+        "perimeter_px": 71.6,
+        "circularity": 0.782,
+        "aspect_ratio": 1.15,
+        "solidity": 0.918,
+        "pleomorphism_score": 0.19,
+        "bounding_box": [
+          76,
+          222,
+          22,
+          23
+        ]
+      },
+      {
+        "id": 25,
+        "centroid_x": 307.96,
+        "centroid_y": 239.91,
+        "area_px": 130.0,
+        "area_um2": 8.12,
+        "perimeter_px": 43.8,
+        "circularity": 0.852,
+        "aspect_ratio": 1.22,
+        "solidity": 0.956,
+        "pleomorphism_score": 0.176,
+        "bounding_box": [
+          302,
+          233,
+          13,
+          15
+        ]
+      },
+      {
+        "id": 26,
+        "centroid_x": 87.99,
+        "centroid_y": 256.0,
+        "area_px": 144.5,
+        "area_um2": 9.03,
+        "perimeter_px": 48.9,
+        "circularity": 0.76,
+        "aspect_ratio": 1.52,
+        "solidity": 0.941,
+        "pleomorphism_score": 0.352,
+        "bounding_box": [
+          79,
+          250,
+          18,
+          13
+        ]
+      },
+      {
+        "id": 27,
+        "centroid_x": 263.81,
+        "centroid_y": 271.86,
+        "area_px": 287.5,
+        "area_um2": 17.97,
+        "perimeter_px": 68.2,
+        "circularity": 0.777,
+        "aspect_ratio": 1.03,
+        "solidity": 0.94,
+        "pleomorphism_score": 0.144,
+        "bounding_box": [
+          254,
+          262,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 28,
+        "centroid_x": 780.98,
+        "centroid_y": 273.0,
+        "area_px": 311.0,
+        "area_um2": 19.44,
+        "perimeter_px": 67.1,
+        "circularity": 0.868,
+        "aspect_ratio": 1.23,
+        "solidity": 0.972,
+        "pleomorphism_score": 0.169,
+        "bounding_box": [
+          771,
+          263,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 29,
+        "centroid_x": 358.96,
+        "centroid_y": 278.94,
+        "area_px": 353.5,
+        "area_um2": 22.09,
+        "perimeter_px": 70.5,
+        "circularity": 0.893,
+        "aspect_ratio": 1.08,
+        "solidity": 0.978,
+        "pleomorphism_score": 0.095,
+        "bounding_box": [
+          349,
+          268,
+          21,
+          23
+        ]
+      },
+      {
+        "id": 30,
+        "centroid_x": 913.0,
+        "centroid_y": 276.0,
+        "area_px": 171.0,
+        "area_um2": 10.69,
+        "perimeter_px": 49.5,
+        "circularity": 0.879,
+        "aspect_ratio": 1.11,
+        "solidity": 0.966,
+        "pleomorphism_score": 0.116,
+        "bounding_box": [
+          906,
+          268,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 31,
+        "centroid_x": 85.99,
+        "centroid_y": 295.01,
+        "area_px": 165.5,
+        "area_um2": 10.34,
+        "perimeter_px": 51.2,
+        "circularity": 0.793,
+        "aspect_ratio": 1.49,
+        "solidity": 0.943,
+        "pleomorphism_score": 0.318,
+        "bounding_box": [
+          79,
+          287,
+          15,
+          17
+        ]
+      },
+      {
+        "id": 32,
+        "centroid_x": 407.07,
+        "centroid_y": 298.03,
+        "area_px": 152.0,
+        "area_um2": 9.5,
+        "perimeter_px": 46.6,
+        "circularity": 0.879,
+        "aspect_ratio": 1.02,
+        "solidity": 0.965,
+        "pleomorphism_score": 0.082,
+        "bounding_box": [
+          400,
+          291,
+          15,
+          15
+        ]
+      },
+      {
+        "id": 33,
+        "centroid_x": 203.99,
+        "centroid_y": 317.98,
+        "area_px": 524.5,
+        "area_um2": 32.78,
+        "perimeter_px": 87.0,
+        "circularity": 0.871,
+        "aspect_ratio": 1.0,
+        "solidity": 0.972,
+        "pleomorphism_score": 0.079,
+        "bounding_box": [
+          191,
+          305,
+          27,
+          27
+        ]
+      },
+      {
+        "id": 34,
+        "centroid_x": 896.33,
+        "centroid_y": 357.31,
+        "area_px": 384.5,
+        "area_um2": 24.03,
+        "perimeter_px": 82.7,
+        "circularity": 0.707,
+        "aspect_ratio": 1.42,
+        "solidity": 0.886,
+        "pleomorphism_score": 0.344,
+        "bounding_box": [
+          885,
+          344,
+          27,
+          25
+        ]
+      },
+      {
+        "id": 35,
+        "centroid_x": 934.12,
+        "centroid_y": 360.06,
+        "area_px": 100.5,
+        "area_um2": 6.28,
+        "perimeter_px": 39.2,
+        "circularity": 0.821,
+        "aspect_ratio": 1.32,
+        "solidity": 0.948,
+        "pleomorphism_score": 0.234,
+        "bounding_box": [
+          928,
+          355,
+          14,
+          12
+        ]
+      },
+      {
+        "id": 36,
+        "centroid_x": 519.93,
+        "centroid_y": 382.11,
+        "area_px": 378.0,
+        "area_um2": 23.62,
+        "perimeter_px": 73.9,
+        "circularity": 0.869,
+        "aspect_ratio": 1.01,
+        "solidity": 0.967,
+        "pleomorphism_score": 0.081,
+        "bounding_box": [
+          509,
+          371,
+          23,
+          23
+        ]
+      },
+      {
+        "id": 37,
+        "centroid_x": 724.1,
+        "centroid_y": 396.89,
+        "area_px": 300.5,
+        "area_um2": 18.78,
+        "perimeter_px": 66.5,
+        "circularity": 0.853,
+        "aspect_ratio": 1.0,
+        "solidity": 0.957,
+        "pleomorphism_score": 0.088,
+        "bounding_box": [
+          714,
+          387,
+          21,
+          21
+        ]
+      },
+      {
+        "id": 38,
+        "centroid_x": 350.1,
+        "centroid_y": 397.25,
+        "area_px": 107.0,
+        "area_um2": 6.69,
+        "perimeter_px": 40.6,
+        "circularity": 0.815,
+        "aspect_ratio": 1.17,
+        "solidity": 0.934,
+        "pleomorphism_score": 0.177,
+        "bounding_box": [
+          344,
+          391,
+          13,
+          14
+        ]
+      },
+      {
+        "id": 39,
+        "centroid_x": 301.6,
+        "centroid_y": 416.96,
+        "area_px": 442.0,
+        "area_um2": 27.62,
+        "perimeter_px": 79.6,
+        "circularity": 0.877,
+        "aspect_ratio": 1.02,
+        "solidity": 0.975,
+        "pleomorphism_score": 0.081,
+        "bounding_box": [
+          290,
+          405,
+          25,
+          25
+        ]
+      },
+      {
+        "id": 40,
+        "centroid_x": 353.96,
+        "centroid_y": 410.86,
+        "area_px": 141.5,
+        "area_um2": 8.84,
+        "perimeter_px": 46.0,
+        "circularity": 0.839,
+        "aspect_ratio": 1.05,
+        "solidity": 0.95,
+        "pleomorphism_score": 0.117,
+        "bounding_box": [
+          347,
+          403,
+          15,
+          15
+        ]
+      }
+    ],
+    "images": {
+      "raw": "/slides/lymph_raw.jpg",
+      "macenko": "/slides/lymph_macenko.jpg",
+      "reinhard": "/slides/lymph_reinhard.jpg",
+      "overlay": "/slides/lymph_overlay.jpg",
+      "heatmap": "/slides/lymph_heatmap.jpg"
+    }
+  }
+]
